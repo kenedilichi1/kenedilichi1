@@ -12,6 +12,7 @@
 
 - 🔧 Backend engineer with **5+ years** building high-performance APIs, microservices, and payment infrastructure
 - 💼 Currently a Backend Engineer at **Nubia Mega Tech**, running the Node.js backend for 6 user-facing products
+- 🐍 Currently rewriting **FaultLens** in Python with FastAPI
 - 💳 Production experience with payment gateway integration (Paystack), webhook verification, and ACID-compliant transaction flows
 - 🤖 Also build independently with LLMs — architected **smart-commit**, a fully on-device AI CLI tool
 - 🎓 Studying Computer Science at Miva Open University; came in from a B.Agric background in Soil Science
@@ -32,7 +33,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**FaultLens**](https://github.com/kenedilichi1/Fault_Lens) | Multi-tenant log aggregation tool that ingests and parses application logs for fault analysis, backed by a normalized, query-efficient PostgreSQL schema | Node.js, TypeScript, PostgreSQL, Prisma |
+| [**FaultLens**](https://github.com/kenedilichi1/Fault_Lens) | Multi-tenant log aggregation tool that ingests and parses application logs for fault analysis, backed by a normalized, query-efficient PostgreSQL schema — 🚧 currently being rewritten in Python/FastAPI | Python, FastAPI, PostgreSQL |
 | [**smart-commit**](https://github.com/kenedilichi1/smart-commit) | AI-powered CLI that reads staged git diffs and generates Conventional Commits messages using a locally-hosted LLM (Qwen2.5-Coder-1.5B) — no API keys, no cloud calls | Node.js, TypeScript, node-llama-cpp |
 | [**nginx-log-analyser**](https://github.com/kenedilichi1/nginx-log-analyser) | CLI script that parses nginx access logs and reports the top 5 IPs, paths, and status codes | Shell |
 | **Log Archiving Tool** | Shell scripts + cron jobs that compress and archive server logs to `.tar.gz`, cutting storage overhead and manual ops work | Shell, Bash, Cron |
@@ -56,6 +57,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
