@@ -33,7 +33,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [**Walkie**](https://github.com/kenedilichi1/walkie) | A private, offline-first walk planner that uses local AI, weather and daylight to schedule walks, build walking routes, and generate spoken turn-by-turn cues | Python, Ollama, OpenStreetMap, OSMnx |
-| [**Mneme**](https://github.com/kenedilichi1/Mneme_be) | Backend service for an AI-powered memory application | TypeScript, Node.js |
+| [**Mneme**](https://github.com/kenedilichi1/Mneme_be) | Document-grounded AI assistant: upload PDFs and EPUBs, ask questions about a document, or synthesize answers across your library using asynchronous processing and semantic vector search | Python, FastAPI, PostgreSQL, pgvector |
 | [**smart-commit**](https://github.com/kenedilichi1/smart-commit) | AI-powered CLI that reads staged git diffs and generates Conventional Commits messages using a locally-hosted LLM (Qwen2.5-Coder-1.5B) — no API keys, no cloud calls | Node.js, TypeScript, node-llama-cpp |
 | [**nginx-log-analyser**](https://github.com/kenedilichi1/nginx-log-analyser) | CLI script that parses nginx access logs and reports the top 5 IPs, paths, and status codes | Shell |
 | **Log Archiving Tool** | Shell scripts + cron jobs that compress and archive server logs to `.tar.gz`, cutting storage overhead and manual ops work | Shell, Bash, Cron |
@@ -46,7 +46,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-377B?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white"/>
 </p>
