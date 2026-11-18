@@ -12,9 +12,8 @@
 
 - 🔧 Backend engineer with **5+ years** building high-performance APIs, microservices, and payment infrastructure
 - 💼 Currently a Backend Engineer at **Nubia Mega Tech**, running the Node.js backend for 6 user-facing products
-- 🐍 Currently rewriting **FaultLens** in Python with FastAPI
 - 💳 Production experience with payment gateway integration (Paystack), webhook verification, and ACID-compliant transaction flows
-- 🤖 Also build independently with LLMs — architected **smart-commit**, a fully on-device AI CLI tool
+- 🤖 Build independently with LLMs — architected **smart-commit**, a fully on-device AI CLI tool
 - 🎓 Studying Computer Science at Miva Open University; came in from a B.Agric background in Soil Science
 - 📍 Based in Abakaliki, Ebonyi, Nigeria
 
@@ -33,7 +32,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**FaultLens**](https://github.com/kenedilichi1/Fault_Lens) | Multi-tenant log aggregation tool that ingests and parses application logs for fault analysis, backed by a normalized, query-efficient PostgreSQL schema — 🚧 currently being rewritten in Python/FastAPI | Python, FastAPI, PostgreSQL |
+| [**Walkie**](https://github.com/kenedilichi1/walkie) | A private, offline-first walk planner that uses local AI, weather and daylight to schedule walks, build walking routes, and generate spoken turn-by-turn cues | Python, Ollama, OpenStreetMap, OSMnx |
+| [**Mneme**](https://github.com/kenedilichi1/Mneme) | A mobile app project built with Expo and TypeScript | TypeScript, Expo, React Native |
 | [**smart-commit**](https://github.com/kenedilichi1/smart-commit) | AI-powered CLI that reads staged git diffs and generates Conventional Commits messages using a locally-hosted LLM (Qwen2.5-Coder-1.5B) — no API keys, no cloud calls | Node.js, TypeScript, node-llama-cpp |
 | [**nginx-log-analyser**](https://github.com/kenedilichi1/nginx-log-analyser) | CLI script that parses nginx access logs and reports the top 5 IPs, paths, and status codes | Shell |
 | **Log Archiving Tool** | Shell scripts + cron jobs that compress and archive server logs to `.tar.gz`, cutting storage overhead and manual ops work | Shell, Bash, Cron |
